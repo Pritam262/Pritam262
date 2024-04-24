@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam262&label=Profile%20views&color=0e75b6&style=flat" alt="pritam262" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://pritamjana.com](http://pritamjana.com)
+- 👨‍💻 All of my projects are available at [https://pritamjana.com](https://pritamjana.com)
 
 - 📫 How to reach me **pritam@pritamjana.com**
 
