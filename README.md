@@ -10,13 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Web Developer** with 1 years of experience in building scalable, efficient, and innovative solutions.  
+I am a  **Software Developer** with 1 years of experience in building scalable, efficient, and innovative solutions.  
 
 
 - 🔭 I’m currently working on: videostreaming platform 
-- 🌱 I’m currently learning: python
-- 💬 Ask me about: python  
-- ⚡ Fun fact: [Something interesting about you]
+- 💬 Ask me about: JavaScript
 
 ---
 
